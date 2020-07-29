@@ -1,5 +1,5 @@
 ### Hi there, my name is Jan 👋
 
 - 📫 reach me via email [janmarkuslanger10121994@gmail.com](janmarkuslanger10121994@gmail.com) 
-- 📘 currently reading "The Clean Coder" by Robert C.Martin
+- 📘 diving into symfony, tdd and react
 - 🎓 studying computer science
