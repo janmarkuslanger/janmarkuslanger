@@ -1,5 +1,5 @@
 ### Hi there, my name is Jan 👋
 
 - 📫 reach me via email [janmarkuslanger10121994@gmail.com](janmarkuslanger10121994@gmail.com) 
-- 💻 working & learning currently with typescript, uml & angular 
+- 💻 learning typescript, react & react-native
 - 🎓 studying computer science
