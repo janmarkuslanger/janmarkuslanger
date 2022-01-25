@@ -4,6 +4,7 @@
 - 🏗️ diving into software architecture
 - 🎓 studying computer science
 - 💻 working as a frontend developer @ https://brandung.de/
+- 💻 working as freelance software engineer 
 
 ---
 
