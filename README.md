@@ -16,6 +16,6 @@
 
 ---
 
-<p>This is my dog :)</p>
+<p>This is my dog, Nuri :)</p>
 <img width="200" src="nuri.jpeg" />
 
