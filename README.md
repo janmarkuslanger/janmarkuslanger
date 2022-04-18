@@ -13,6 +13,7 @@
 - Email: [janmarkuslanger10121994@gmail.com](janmarkuslanger10121994@gmail.com) 
 - Linkedin: https://www.linkedin.com/in/jan-markus-langer/
 - Instagram: https://www.instagram.com/janmarkuslanger/
+- Twitch: https://www.twitch.tv/helloworlddotjs
 
 ---
 
