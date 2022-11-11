@@ -5,6 +5,7 @@
 - 🎓 studying computer science
 - 💻 working as a frontend developer @ https://brandung.de/
 - 💻 working as freelance software engineer @ https://nuris.studio
+- 🐒 coach @ https://instagram.com/gorilla_fightclub
 
 ---
 
