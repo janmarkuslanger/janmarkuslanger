@@ -10,15 +10,6 @@ I am a software engineer living in germany near cologne.
 
 ---
 
-### Get in touch with me:
-
-- Email: [janmarkuslanger10121994@gmail.com](janmarkuslanger10121994@gmail.com) 
-- Linkedin: https://www.linkedin.com/in/jan-markus-langer/
-- Instagram: https://www.instagram.com/janmarkuslanger/
-- Twitch: https://www.twitch.tv/helloworlddotjs
-
----
-
 <p>This is my dog, Nuri :)</p>
 <img width="350" src="nuri2.jpeg" />
 
