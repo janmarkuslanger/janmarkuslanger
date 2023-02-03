@@ -20,5 +20,5 @@ I am a software engineer living in germany near cologne.
 ---
 
 <p>This is my dog, Nuri :)</p>
-<img width="200" src="nuri.jpeg" />
+<img width="200" src="nuri2.jpeg" />
 
