@@ -3,7 +3,6 @@
 I am a software engineer living in germany near cologne. 
 
 - 🧑‍💼 software engineer
-- 🏗️ currently learning: software architecture & c++ & nuxt3/vue3
 - 💻 working at @meinestadt
 - 💻 working as freelance software engineer @ https://nuris.studio
 - 🐒 coach @ https://instagram.com/gorilla_fightclub
